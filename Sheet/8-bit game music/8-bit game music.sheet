@@ -1,0 +1,21 @@
+[Description]
+Title=8-bit game music
+Artist=아야츠노 유니
+Original=Dreamy_Rabbit
+
+[Audio]
+BPM=127
+Offset=2160
+Signature=4/4
+
+[Note]
+3472, 1, 1, 4694
+3472, 1, 4, 4694
+4817, 0, 3
+4878, 0, 2
+4939, 0, 3
+5000, 0, 2
+5428, 1, 1, 5856
+5428, 1, 4, 5856
+6039, 0, 1
+6039, 0, 4

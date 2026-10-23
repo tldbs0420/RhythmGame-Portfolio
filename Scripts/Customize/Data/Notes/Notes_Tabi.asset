@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b7d988e849c8944cb8a04b96bc6352a, type: 3}
+  m_Name: Notes_Tabi
+  m_EditorClassIdentifier: 
+  id: 0
+  thumbNail: {fileID: 21300000, guid: 5cf5544e6ea39814e921df0a2a3bfcf3, type: 3}
+  line1: {fileID: 11400000, guid: bf82094c8ff67714d90e01dcff1c7b86, type: 2}
+  line2: {fileID: 11400000, guid: e017980c5244285469d51a802b6d4aee, type: 2}
+  line3: {fileID: 11400000, guid: e017980c5244285469d51a802b6d4aee, type: 2}
+  line4: {fileID: 11400000, guid: bf82094c8ff67714d90e01dcff1c7b86, type: 2}

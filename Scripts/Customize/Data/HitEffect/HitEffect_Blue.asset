@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b7d06add8fbbfd469f1e8b3b88100d8, type: 3}
+  m_Name: HitEffect_Blue
+  m_EditorClassIdentifier: 
+  id: 0
+  hitEffect: {fileID: 4465165909784790023, guid: ccf84f5151509d94b8c5f773c85b1a43, type: 3}
+  thumbNail: {fileID: 21300000, guid: c6487090304afbd4da1d85b31c2a9d84, type: 3}

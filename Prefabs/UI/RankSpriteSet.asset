@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c5e8e3be36afce43b2d490f895650a6, type: 3}
+  m_Name: RankSpriteSet
+  m_EditorClassIdentifier: 
+  none: {fileID: -2413806693520163455, guid: 9b8c600f3b3de79489871be5631c18ae, type: 3}
+  d: {fileID: 21300000, guid: e5c467b05c642ca4fb476ea28acb1e15, type: 3}
+  c: {fileID: 21300000, guid: da44021edf55fd14e8b2af4060bdf391, type: 3}
+  b: {fileID: 21300000, guid: b70287523b81c394ea8ab3432e98f6ec, type: 3}
+  a: {fileID: 21300000, guid: 1cd74660f4a327c429bab585a953b383, type: 3}
+  s: {fileID: 21300000, guid: 440f9e2afb9d3614a853abd1452cfd76, type: 3}
